@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javabin7777777
 - 👀 I’m interested in Java,Mysql,Html,Css,Javascript
-- 🌱 I’m currently learning ...Java,Mysql
+- 🌱 I’m currently learning ...Java,Mysql,Html,Css,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
