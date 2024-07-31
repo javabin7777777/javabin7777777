@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @javabin7777777
-- 👀 I’m interested in Java,Mysql,Javascript,Html,Css,Typescript,Angular
-- 🌱 I’m currently learning ...Java,Mysql,Html,Css,Javascript,Typescript,Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Eu sou @javabin7777777
+- 👀 Eu estou interessado em Java,Mysql,Javascript,Html,Css,Typescript,Angular
+- 🌱 Atualmente estou aprendendo ...Java,Mysql,Html,Css,Javascript,Typescript,Angular
+- 💞️ 
+- 📫 
 
 <!---
 javabin7777777/javabin7777777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
