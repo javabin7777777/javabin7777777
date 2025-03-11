@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou @javabin7777777.
+- 👋 Olá, Eu sou @samzubeli.
 - 👀 Eu estou interessado em Java,Mysql,Javascript,Html,Css,Typescript,Angular.
 - 🌱 Atualmente estou aprendendo ...Java,Mysql,Html,Css,Javascript,Typescript,Angular.
 
