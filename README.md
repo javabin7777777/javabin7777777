@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @samzubeli.
-- 👀 Eu estou interessado em Java,Mysql,Javascript,Html,Css,Typescript,Angular.
-- 🌱 Atualmente estou aprendendo ...Java,Mysql,Html,Css,Javascript,Typescript,Angular.
+- 👀 Eu estou interessado em Python,Java,Mysql,Javascript,Html,Css.
+- 🌱 Atualmente estou aprendendo ...Python,Java,Mysql,Javascript,Html,Css.
 
 <!---
 javabin7777777/javabin7777777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
