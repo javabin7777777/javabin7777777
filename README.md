@@ -70,7 +70,7 @@ class Samuel:
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Me_adicione_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samzubeli)
-[![Instagram](https://img.shields.io/badge/Me_siga_no_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuel)
+[![Instagram]()
 
 <br/>
 
