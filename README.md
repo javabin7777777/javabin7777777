@@ -65,7 +65,7 @@ class Samuel:
 
 <div align="center">
 
-> *"A melhor maneira de prever o futuro é inventá-lo."* — Alan Kay
+> *"Debata consigo mesmo e saia glorificado."*
 
 <br/>
 
