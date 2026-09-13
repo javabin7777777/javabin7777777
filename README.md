@@ -65,7 +65,7 @@ class Samuel:
 
 <div align="center">
 
-> *"Debata consigo mesmo e saia glorificado,segue debatendo com outros"*
+> *"Debata consigo mesmo e saia glorificado,segue debatendo com outros."*
 
 <br/>
 
